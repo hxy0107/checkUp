@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">CheckUp</string>
+        <string name="action_settings">Settings</string>
+        <string name="hello_world">Hello world!</string>
+        <string name="tvAvailMemory">系统可用内存为</string>
+        <string name="btProcessInfo">查看系统进程信息</string>
+        <string name="title_activity_browse_process_info">系统进程信息</string>
+</resources>
